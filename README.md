@@ -67,6 +67,7 @@ Contato:        miguelppeters@gmail.com
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=00fff7)
+![C,C++,C#](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=C&logoColor=00fff7)
 ![MYSQL](https://img.shields.io/badge/-mysql-0d1117?style=for-the-badge&logo=mysql&logoColor=00fff7)
 ![Flask](https://img.shields.io/badge/-Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00fff7)
 ![API](https://img.shields.io/badge/-API-0d1117?style=for-the-badge&logo=python&logoColor=00fff7)
@@ -91,10 +92,9 @@ Contato:        miguelppeters@gmail.com
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00fff7)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00fff7)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=00fff7)
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=00fff7)
 ![Notion](https://img.shields.io/badge/Notion-0d1117?style=flat-square&logo=notion&logoColor=00fff7)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=00fff7)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=00fff7)
+![DBeaver](https://img.shields.io/badge/-Dbeaver-0d1117?style=for-the-badge&logo=dbeaver&logoColor=00fff7)
+![Docker](https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00fff7)
 
 </div>
 
