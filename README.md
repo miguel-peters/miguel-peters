@@ -149,7 +149,7 @@ E-mail: miguelppeters@gmail.com
 <div align="center">
 
 ```ansi
-                                                  [ connection closed. see you in the next commit. ]
+                                 [ connection closed. see you in the next commit. ]
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00fff7,100:0d1117&height=120&section=footer"/>
