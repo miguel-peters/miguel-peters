@@ -93,8 +93,8 @@ Contato:        miguelppeters@gmail.com
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00fff7)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=00fff7)
 ![Notion](https://img.shields.io/badge/Notion-0d1117?style=flat-square&logo=notion&logoColor=00fff7)
-![DBeaver](https://img.shields.io/badge/-Dbeaver-0d1117?style=for-the-badge&logo=dbeaver&logoColor=00fff7)
-![Docker](https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00fff7)
+![DBeaver](https://img.shields.io/badge/DBeaver-0d1117?style=flat-square&logo=dbeaver&logoColor=00fff7)
+![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=00fff7)
 
 </div>
 
