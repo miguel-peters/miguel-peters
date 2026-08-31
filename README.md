@@ -72,7 +72,7 @@ Contato:        miguelppeters@gmail.com
 ![API](https://img.shields.io/badge/-API-0d1117?style=for-the-badge&logo=python&logoColor=00fff7)
 ![Postman](https://img.shields.io/badge/-Postman-0d1117?style=for-the-badge&logo=postman&logoColor=00fff7)
 ![Docker](https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00fff7)
-![DBeaver](https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00fff7)
+![DBeaver](https://img.shields.io/badge/-DBeaver-0d1117?style=for-the-badge&logo=dbaver&logoColor=00fff7)
 
 </div>
 </div>
