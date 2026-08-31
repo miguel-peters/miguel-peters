@@ -11,7 +11,9 @@
 <!-- ============================== -->
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Miguel Peters" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Miguel Peters;System+Status%3A+ONLINE+%E2%9C%94" alt="Typing SVG" />
+</a>
+
 </a>
 
 <br/>
