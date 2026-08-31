@@ -18,7 +18,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&label=SCANS%20DE%20PERFIL&color=00fff7&style=for-the-badge)
+
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00fff7?style=for-the-badge&labelColor=0d1117)
 ![Build](https://img.shields.io/badge/BUILD-STABLE-39ff14?style=for-the-badge&labelColor=0d1117)
 
