@@ -11,7 +11,7 @@
 <!-- ============================== -->
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Ol%C3%A1%2C+eu+sou+SEU_NOME_AQUI;Engenheiro(a)+de+Software+%7C+Dev+Full+Stack;Construindo+o+futuro%2C+uma+linha+de+c%C3%B3digo+por+vez;System+Status%3A+ONLINE+%E2%9C%94" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Miguel Peters" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -39,19 +39,12 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="360"/>
 
 ```yaml
-Unidade:        SEU_NOME_AQUI
-Classe:         Full Stack Developer
-Localização:    Sua Cidade, Seu País
-Idiomas:        [Python, JavaScript, TypeScript, ...]
-Foco Atual:     Sistemas Inteligentes & Interfaces do Futuro
-Curiosidade:    Acredito que código limpo é código bonito
-Contato:        seuemail@dominio.com
+Unidade:        Miguel Peters
+Classe:         Graduando em Ciência da Computação
+Localização:    Rio de Janeiro, Brasil
+Idiomas:        [Python, C, SQL, ...]
+Contato:        miguelppeters@gmail.com
 ```
-
-- 🔭 Atualmente trabalhando em **[nome do projeto]**
-- 🌱 Aprendendo **[tecnologia em estudo]**
-- 👯 Aberto para colaborar em **[tipo de projeto]**
-- ⚡ Fun fact: **[algo divertido sobre você]**
 
 <br clear="right"/>
 
