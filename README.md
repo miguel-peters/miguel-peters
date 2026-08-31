@@ -131,84 +131,16 @@ Contato:        miguelppeters@gmail.com
 <!--   OBJETIVOS ESTILO TERMINAL   -->
 <!-- ============================== -->
 
-## 🎯 &nbsp;OBJETIVOS ATUAIS
+## 🎯 &nbsp;REDES SOCIAIS
 
 ```bash
 SEU_USUARIO@matrix:~$ cat objetivos_2026.log
 
-[ ] Aprender por completo BackEnd + Banco de Dados
-[ ] Contribuir para projetos open source
-[ ] Estudar Inteligência Artificial aplicada a produtos reais
-[ ] Alcançar nível avançado em Cloud (AWS/GCP)
-[ ] Adquirir conhecimento na faculdade
+LikedIn: Miguel Peters
+E-mail: miguelppeters@gmail.com
 
 SEU_USUARIO@matrix:~$ _
 ```
-
----
-
-<!-- ============================== -->
-<!--         GITHUB STATS          -->
-<!-- ============================== -->
-
-## 📊 &nbsp;GITHUB STATS
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=39ff14&text_color=c9d1d9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=c9d1d9&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&hide_border=true&background=0D1117&ring=00FFF7&fire=39FF14&currStreakLabel=00FFF7" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=react-dark&hide_border=true&bg_color=0D1117&color=00fff7&line=39ff14&point=ffffff&area=true&area_color=00fff7" width="100%"/>
-
-</div>
-
----
-
-<!-- ============================== -->
-<!--        GITHUB TROPHIES        -->
-<!-- ============================== -->
-
-## 🏆 &nbsp;GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-
-</div>
-
----
-
-<!-- ============================== -->
-<!--        REDES SOCIAIS          -->
-<!-- ============================== -->
-
-## 🌐 &nbsp;REDES SOCIAIS
-
-<div align="center">
-
-<a href="www.linkedin.com/in/miguel-peters-a28808421" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00fff7" />
-</a>
-<a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00fff7" />
-</a>
-<a href="https://twitter.com/SEU_TWITTER" target="_blank">
-  <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00fff7" />
-</a>
-<a href="mailto:miguelppeters@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00fff7" />
-</a>
-<a href="https://discord.com/users/SEU_DISCORD" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00fff7" />
-</a>
-
-</div>
 
 ---
 
@@ -219,7 +151,7 @@ SEU_USUARIO@matrix:~$ _
 <div align="center">
 
 ```ansi
-[0;36m>_[0m connection closed. see you in the next commit.
+                                                  [ connection closed. see you in the next commit. ]
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00fff7,100:0d1117&height=120&section=footer"/>
