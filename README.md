@@ -60,7 +60,7 @@ Contato:        miguelppeters@gmail.com
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,html,css,tailwind,flask,django,postgres,mysql,mongodb,docker,git,github,linux,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,html,css,flask,mysql,docker,git,github,postman&theme=dark" />
 
 </div>
 
