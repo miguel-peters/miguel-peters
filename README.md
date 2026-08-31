@@ -108,7 +108,7 @@ Contato:        miguelppeters@gmail.com
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO/PROJETO_1">
+<!-- <a href="https://github.com/SEU_USUARIO/PROJETO_1">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_1&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=c9d1d9&icon_color=39ff14" />
 </a>
 <a href="https://github.com/SEU_USUARIO/PROJETO_2">
@@ -120,11 +120,10 @@ Contato:        miguelppeters@gmail.com
 </a>
 <a href="https://github.com/SEU_USUARIO/PROJETO_4">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_4&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=c9d1d9&icon_color=39ff14" />
-</a>
+</a> -->
 
 </div>
 
-> 💡 Substitua `PROJETO_1`, `PROJETO_2`... pelos nomes reais dos seus repositórios para os cards carregarem automaticamente.
 
 ---
 
