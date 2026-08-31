@@ -134,12 +134,10 @@ Contato:        miguelppeters@gmail.com
 ## 🎯 &nbsp;REDES SOCIAIS
 
 ```bash
-SEU_USUARIO@matrix:~$ cat objetivos_2026.log
 
 LikedIn: Miguel Peters
 E-mail: miguelppeters@gmail.com
 
-SEU_USUARIO@matrix:~$ _
 ```
 
 ---
