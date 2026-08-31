@@ -60,14 +60,14 @@ Contato:        miguelppeters@gmail.com
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,html,css,flask,mysql,docker,git,github,postman,dbeaver,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,c,html,css,flask,mysql,docker,git,github,postman,dbeaver&theme=dark" />
 
 </div>
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=00fff7)
-![C,C++,C#](https://img.shields.io/badge/-C,C++,C#-0d1117?style=for-the-badge&logo=C&logoColor=00fff7)
+![C,C++,C#](https://img.shields.io/badge/-C-0d1117?style=for-the-badge&logo=C&logoColor=00fff7)
 ![MYSQL](https://img.shields.io/badge/-mysql-0d1117?style=for-the-badge&logo=mysql&logoColor=00fff7)
 ![Flask](https://img.shields.io/badge/-Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00fff7)
 ![API](https://img.shields.io/badge/-API-0d1117?style=for-the-badge&logo=python&logoColor=00fff7)
