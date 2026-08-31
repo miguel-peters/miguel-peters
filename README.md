@@ -60,19 +60,21 @@ Contato:        miguelppeters@gmail.com
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,html,css,flask,mysql,docker,git,github,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,html,css,flask,mysql,docker,git,github,postman,dbeaver&theme=dark" />
 
 </div>
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=00fff7)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00fff7)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00fff7)
-![React](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=00fff7)
-![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00fff7)
+![MYSQL](https://img.shields.io/badge/-mysql-0d1117?style=for-the-badge&logo=mysql&logoColor=00fff7)
+![Flask](https://img.shields.io/badge/-Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00fff7)
+![API](https://img.shields.io/badge/-API-0d1117?style=for-the-badge&logo=python&logoColor=00fff7)
+![Postman](https://img.shields.io/badge/-Postman-0d1117?style=for-the-badge&logo=postman&logoColor=00fff7)
 ![Docker](https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00fff7)
+![DBeaver](https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00fff7)
 
+</div>
 </div>
 
 ---
