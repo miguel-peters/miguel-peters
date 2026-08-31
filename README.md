@@ -136,12 +136,11 @@ Contato:        miguelppeters@gmail.com
 ```bash
 SEU_USUARIO@matrix:~$ cat objetivos_2026.log
 
-[✔] Dominar arquitetura de sistemas distribuídos
-[✔] Contribuir para projetos open source
+[ ] Aprender por completo BackEnd + Banco de Dados
+[ ] Contribuir para projetos open source
 [ ] Estudar Inteligência Artificial aplicada a produtos reais
-[ ] Publicar minha própria biblioteca open source
 [ ] Alcançar nível avançado em Cloud (AWS/GCP)
-[ ] Escrever artigos técnicos toda semana
+[ ] Adquirir conhecimento na faculdade
 
 SEU_USUARIO@matrix:~$ _
 ```
@@ -186,22 +185,6 @@ SEU_USUARIO@matrix:~$ _
 ---
 
 <!-- ============================== -->
-<!--   SNAKE CONTRIBUTION GRAPH    -->
-<!-- ============================== -->
-
-## 🐍 &nbsp;CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-> ⚙️ Para ativar a snake animation, crie um workflow do GitHub Actions no seu repositório de perfil usando a action [`Platane/snk`](https://github.com/Platane/snk) — ela gera o SVG automaticamente a cada push.
-
----
-
-<!-- ============================== -->
 <!--        REDES SOCIAIS          -->
 <!-- ============================== -->
 
@@ -209,7 +192,7 @@ SEU_USUARIO@matrix:~$ _
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+<a href="www.linkedin.com/in/miguel-peters-a28808421" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00fff7" />
 </a>
 <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
@@ -218,7 +201,7 @@ SEU_USUARIO@matrix:~$ _
 <a href="https://twitter.com/SEU_TWITTER" target="_blank">
   <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00fff7" />
 </a>
-<a href="mailto:seuemail@dominio.com" target="_blank">
+<a href="mailto:miguelppeters@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00fff7" />
 </a>
 <a href="https://discord.com/users/SEU_DISCORD" target="_blank">
